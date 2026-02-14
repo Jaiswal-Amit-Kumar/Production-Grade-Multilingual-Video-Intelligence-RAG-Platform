@@ -4,33 +4,27 @@
 
 **Author:** Amit Kumar Jaiswal
 **Positioning:** 
-Senior AI Engineer
+Senior AI Engineer | Generative AI Platform Engineer | Applied LLM Engineer
 
-Generative AI Platform Engineer
+Core Expertise:
 
-Applied LLM Engineer
-
-*Core Expertise:*
-
-Retrieval-Augmented Generation (RAG) Systems
-
-Multilingual AI Systems & Knowledge Retrieval
+RAG Systems & Multilingual Knowledge Retrieval
 
 Graph-Orchestrated AI Pipelines
 
 Production LLM Infrastructure & Deployment
 
-Explainable Enterprise AI Architectures
+Explainable, Enterprise-Ready AI
 
-*Value Proposition:*
+Value Proposition:
 
-Builds end-to-end AI products from 0→1
+Builds end-to-end AI products 0→1
 
-Designs scalable, cost-aware AI pipelines
+Designs scalable, cost-aware pipelines
 
-Bridges research, engineering, and product thinking
+Bridges research, engineering & product
 
-Delivers practical AI solutions that are deployable, observable, and explainable
+Delivers deployable, observable, explainable AI
 
 ---
 
