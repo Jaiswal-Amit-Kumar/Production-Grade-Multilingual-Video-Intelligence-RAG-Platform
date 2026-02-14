@@ -6,25 +6,9 @@
 **Positioning:** 
 Senior AI Engineer | Generative AI Platform Engineer | Applied LLM Engineer
 
-Core Expertise:
+**Expertise:** RAG Systems • Multilingual Knowledge Retrieval • Graph-Orchestrated Pipelines • Production LLMs • Explainable AI
 
-RAG Systems & Multilingual Knowledge Retrieval
-
-Graph-Orchestrated AI Pipelines
-
-Production LLM Infrastructure & Deployment
-
-Explainable, Enterprise-Ready AI
-
-Value Proposition:
-
-Builds end-to-end AI products 0→1
-
-Designs scalable, cost-aware pipelines
-
-Bridges research, engineering & product
-
-Delivers deployable, observable, explainable AI
+**Impact:** Builds 0→1 AI products • Scalable, cost-aware pipelines • Bridges research, engineering & product • Deployable, observable, explainable AI
 
 ---
 
