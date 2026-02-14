@@ -1,4 +1,4 @@
-# 🎬 Multilingual Video Intelligence RAG Platform
+# 🎬 Multilingual Video Intelligence Assistant
 
 ### Production-Ready AI Knowledge System Built with Startup-Grade Execution Speed
 
