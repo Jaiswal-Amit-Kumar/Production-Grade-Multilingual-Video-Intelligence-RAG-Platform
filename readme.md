@@ -3,7 +3,10 @@
 ### Production-Ready AI Knowledge System Built with Startup-Grade Execution Speed
 
 **Author:** Amit Kumar Jaiswal
-**Positioning:** Senior AI Engineer | Generative AI Platform Engineer | Applied LLM Engineer
+**Positioning:** 
+Senior AI Engineer 
+Generative AI Platform Engineer 
+Applied LLM Engineer
 
 ---
 
